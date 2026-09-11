@@ -1,7 +1,8 @@
 # Sustainable Mobility Analysis
 
 This repository contains the R scripts used for the quantitative analyses
-presented in the thesis on sustainable mobility in Vienna, Madrid, and Tokyo.
+presented in the thesis 'GREEN TRAVEL PREFERENCES 
+IN VIENNA, MADRID AND TOKYO - AN INTERNATIONAL COMPARISON'
 
 ## Scripts
 
